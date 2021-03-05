@@ -1,4 +1,4 @@
-<img src ="https://user-images.githubusercontent.com/4550385/110106931-f3a10980-7db2-11eb-8d7b-e82e58bc309e.jpg" width="550px" align="left"/>
+<img src ="https://user-images.githubusercontent.com/4550385/110106931-f3a10980-7db2-11eb-8d7b-e82e58bc309e.jpg" width="550px" align="right"/>
 
 Hi there! My name is Serah Njambi Rono, my pronouns are she/her/hers, and I am a computer scientist and a writer.
 
