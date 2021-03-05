@@ -8,6 +8,8 @@ I devote my time and energy to work that serves as a precursor to propelling cha
 
 You can also find me on :bird:[Twitter](https://www.twitter.com/serahrono), :link: [LinkedIn](https://www.linkedin.com/in/serahrono) and :woman_technologist: [read what I have been upto recently](https://carpentries.org/posts-by-authors/#blog-author-serah-njambi-rono).
 
+Happy days!
+
 <!--
 
 Here are some ideas to get you started:
